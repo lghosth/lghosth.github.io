@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>妙妙屋</title>
+    <link>https://lghosth.github.io/</link>
+    <description>Recent content on 妙妙屋</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
+    <lastBuildDate>Mon, 26 Apr 2021 13:51:01 +0800</lastBuildDate><atom:link href="https://lghosth.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://lghosth.github.io/post/test/</link>
+      <pubDate>Mon, 26 Apr 2021 13:51:01 +0800</pubDate>
+      
+      <guid>https://lghosth.github.io/post/test/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://lghosth.github.io/post/welcome/</link>
+      <pubDate>Mon, 26 Apr 2021 01:25:25 +0800</pubDate>
+      
+      <guid>https://lghosth.github.io/post/welcome/</guid>
+      <description>这是第一个博客。</description>
+    </item>
+    
+  </channel>
+</rss>
